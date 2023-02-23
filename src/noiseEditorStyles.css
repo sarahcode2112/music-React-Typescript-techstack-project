@@ -1,0 +1,23 @@
+
+/* if you want to make the ranges display vertically instead of horizontally, this may be a start: */
+/* input[type="range"] {
+  position: absolute;
+  top: 40%;
+  transform: rotate(270deg);
+} */
+
+/* TODO double check if this is the conventional way to do this. It's probably not! */
+:root body {
+  background-color: darkgray
+}
+
+#add-noise-button {
+  /* // TODO: make its width and height copy its sibling, or get rid of the outline. */
+  background-color: darkgrey;
+  /* TODO: vertically justify text inside it */
+  justify-content: center;
+}
+
+#add-noise-button:hover {
+  cursor: pointer;
+}

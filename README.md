@@ -3,7 +3,7 @@ to install: npm install
 to run: npm start
 
 
-This is a project built to practice a React/Typescript techstack, with a focus on the UI. (The sound creation part is left for a later exercise).
+This is a project built to practice a React/Typescript techstack, with a focus on the frontend UI. (The detailed sound design backend is left for future work).
 
 ("Start audio context" button is for debugging/development. Would not need to be there in final version.)
 
